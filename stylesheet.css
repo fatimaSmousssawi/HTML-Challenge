@@ -1,0 +1,20 @@
+.navbar{ 
+    font-weight: lighter;
+    font-size: 20px;
+    color: #0d152b;
+    }
+img {
+      border: 5px solid rgb(85, 57, 57);
+    }
+
+body{  
+    font-family: "Nexa", "Arial", "sans-serif";  
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #22101f;
+}
+
+footer{    
+    font-size: 14px;
+    color: #3b2c39;
+    }
